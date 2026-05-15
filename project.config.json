@@ -1,0 +1,12 @@
+{
+  "id": "oddslab-mobile",
+  "displayName": "OddsLab Mobile",
+  "packageName": "oddslab-mobile",
+  "github": {
+    "owner": "eddiegarcia1",
+    "repo": "oddsLabApp",
+    "remote": "https://github.com/eddiegarcia1/oddsLabApp.git",
+    "branch": "main"
+  },
+  "notes": "Local folder is oddslab-mobile. GitHub repo is oddsLabApp. Do not mix with other projects."
+}
